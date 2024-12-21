@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepali
 - 👀 I’m interested in website Development 
-- 🌱 I’m currently learning React , Reduc,and native
+- 🌱 I’m currently learning React , Redux,and native
 
 
 <!---
